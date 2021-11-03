@@ -1,4 +1,4 @@
-# 8.01SC - Classical Mechanics
+# 8.01SC - Classical Mechanics - MIT OCW
 
 I completed 8.01SC from MIT OpenCourseWare and this repo contains all of my notes from the lectures and readings, solutions to problem sets, general problems, etc. I wrote a [medium article about the experience](https://medium.com/@goepigen/how-i-self-studied-mit-ocw-8-01-classical-mechanics-in-297-hours-34246ce7c0ac).
 
